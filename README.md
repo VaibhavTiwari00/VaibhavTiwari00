@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a Freelancer.
 - 🌱 I’m pursuing BCA from VSICS Saket Nagar Kanpur...
-- 📫 How to reach me: <a href=" https://www.linkedin.com/in/vaibhav-tiwari-a97748226/">Linkdin</a> 
+- 📫 How to reach me: <a href=" https://www.linkedin.com/in/vaibhav-tiwari-a97748226/">Linkedin</a> 
 - 🛠 Prefer to code in HTML,CSS,JAVASCRIPT,PHP,MYSQL and REACT
 
 
