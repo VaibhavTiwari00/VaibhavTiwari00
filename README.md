@@ -4,7 +4,7 @@
 - 🔭 I’m currently working as a Freelancer.
 - 🌱 I’m pursuing BCA from VSICS Saket Nagar Kanpur...
 - 📫 How to reach me: <a href=" https://www.linkedin.com/in/vaibhav-tiwari-a97748226/">Linkedin</a> 
-- 🛠 Prefer to code in HTML,CSS,JAVASCRIPT,PHP,MYSQL and REACT
+- 🛠 Prefer to code in HTML, CSS, JAVASCRIPT, PHP, MYSQL and REACT
 
 
 ## 🌐 Socials:
@@ -16,7 +16,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=vaibhavtiwari00&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vaibhavtiwari00&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavtiwari00&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<!-- ---------------------------------- -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=VaibhavTiwari00&theme=dark)](https://git.io/streak-stats)
+<!-- ---------------------------------- -->
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
