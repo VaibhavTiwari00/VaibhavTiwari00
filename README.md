@@ -1,10 +1,10 @@
 ### Hi there 👋 My Name is Vaibhav Tiwari .
 
 
-- 🔭 I’m currently working as a Freelancer.
+- 🔭 I’m currently working as a Full Stack Web Developer.
 - 🌱 I’m pursuing MCA from SRM University...
 - 📫 How to reach me: <a href=" https://www.linkedin.com/in/vaibhav-tiwari-a97748226/">Linkedin</a> 
-- 🛠 Prefer to code in HTML, CSS, JAVASCRIPT, PHP, MYSQL and REACT
+- 🛠 Prefer to code in HTML, CSS, JAVASCRIPT, PHP, LARAVEL, MYSQL and REACT
 
 
 ## 🌐 Socials:
